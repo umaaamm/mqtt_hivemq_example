@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:test_mqtt_client/beranda_pages.dart';
+import 'package:test_mqtt_client/detail_home_pages.dart';
+import 'package:test_mqtt_client/detail_home_pages_2.dart';
+import 'package:test_mqtt_client/home_pages.dart';
+import 'package:test_mqtt_client/scan_pages.dart';
 
 void main() {
   runApp(const MyApp());
